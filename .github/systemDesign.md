@@ -11,9 +11,9 @@ The System Design Document is a roadmap detailing the architecture, functionalit
 ### Frontend:
  
 - Next.js: Utilized for server-side rendering, providing a fast and optimized user experience.
-- React.js: The core library for building the user interface, facilitating a dynamic and responsive front end.
 - Tailwind CSS: Employed for efficient styling, ensuring a clean and customizable design.
-Backend:
+
+### Backend:
 
 - Node.js: Powers the backend server, offering a non-blocking, event-driven architecture for optimal performance.
 - Express.js: Used as the web application framework to simplify routing and middleware implementation.
@@ -47,7 +47,7 @@ Group chat and personal chat functionalities are seamlessly integrated.
 
 #### Frontend Interaction:
 
-Next.js and React.js dynamically render and update the user interface based on real-time data.
+Next.js dynamically render and update the user interface based on real-time data.
 Tailwind CSS ensures a responsive and visually appealing design.
 
 #### Key Components:
@@ -55,8 +55,8 @@ Tailwind CSS ensures a responsive and visually appealing design.
 Authentication Module: Manages user sign-in, profile creation, and access control.
 Database Connector: Interfaces with MongoDB for data storage and retrieval.
 Real-time Messaging Service: Utilizes Pusher for instant message broadcasting.
-Frontend Components: Next.js, React.js, and Tailwind CSS collectively build the user interface for a smooth and intuitive experience.
-This system architecture ensures a scalable, secure, and responsive chat application, integrating the strengths of Next.js, React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Google, GitHub APIs, and Pusher to deliver an optimal user experience.
+Frontend Components: Next.js, and Tailwind CSS collectively build the user interface for a smooth and intuitive experience.
+This system architecture ensures a scalable, secure, and responsive chat application, integrating the strengths of Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Google, GitHub APIs, and Pusher to deliver an optimal user experience.
 
 
 #### Database (MongoDB):
@@ -79,8 +79,7 @@ The MongoDB database includes collections for users, personal chats, and group c
 ## 4. Technology Stack
 
 ### Frontend:
-- React.js
-- Next.js
+-- Next.js
 - Tailwind CSS
 
 ### Backend:
@@ -132,6 +131,4 @@ In conclusion, the system design for "Ping" ensures a seamless and engaging expe
 - Tailwind CSS Documentation
 - MongoDB Documentation
 - Pusher Documentation
-- React.js Documentation
 - Google cloud platform
-
