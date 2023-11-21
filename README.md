@@ -67,10 +67,10 @@ npm run dev
 ```
 
 ## System Design
- [System Design](https://github.com/Aryan-tiwari/Ping-2.0/blob/master/.github/systemDesign.md)
+ [System Design](https://github.com/Aryan-tiwari/Ping/blob/master/.github/systemDesign.md)
 
 ## Dependencies Details
-[Dependencies](https://github.com/Aryan-tiwari/Ping-2.0/blob/master/.github/dependencies.md)
+[Dependencies](https://github.com/Aryan-tiwari/Ping/blob/master/.github/dependencies.md)
 
  ## Creator
  - [Aryan Tiwari](https://github.com/Aryan-tiwari)
