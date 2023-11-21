@@ -37,32 +37,32 @@ Authenticated users gain access to personalized profiles and chat features.
 
 #### Database Management:
 
-MongoDB stores user profiles, chat messages, and related data.
-Ensures efficient retrieval and storage of information.
+- MongoDB stores user profiles, chat messages, and related data.
+- Ensures efficient retrieval and storage of information.
 
 #### Real-time Chat:
 
-Pusher facilitates real-time communication by broadcasting messages instantly to connected users.
-Group chat and personal chat functionalities are seamlessly integrated.
+- Pusher facilitates real-time communication by broadcasting messages instantly to connected users.
+- Group chat and personal chat functionalities are seamlessly integrated.
 
 #### Frontend Interaction:
 
-Next.js dynamically render and update the user interface based on real-time data.
-Tailwind CSS ensures a responsive and visually appealing design.
+- Next.js dynamically render and update the user interface based on real-time data.
+- Tailwind CSS ensures a responsive and visually appealing design.
 
 #### Key Components:
 
-Authentication Module: Manages user sign-in, profile creation, and access control.
-Database Connector: Interfaces with MongoDB for data storage and retrieval.
-Real-time Messaging Service: Utilizes Pusher for instant message broadcasting.
-Frontend Components: Next.js, and Tailwind CSS collectively build the user interface for a smooth and intuitive experience.
-This system architecture ensures a scalable, secure, and responsive chat application, integrating the strengths of Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Google, GitHub APIs, and Pusher to deliver an optimal user experience.
+- Authentication Module: Manages user sign-in, profile creation, and access control.
+- Database Connector: Interfaces with MongoDB for data storage and retrieval.
+- Real-time Messaging Service: Utilizes Pusher for instant message broadcasting.
+- Frontend Components: Next.js, and Tailwind CSS collectively build the user interface for a smooth and intuitive experience.
+- This system architecture ensures a scalable, secure, and responsive chat application, integrating the strengths of Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Google, GitHub APIs, and Pusher to deliver an optimal user experience.
 
 
 #### Database (MongoDB):
 
-Stores user information, chat messages, and group details
-Ensures data persistence and retrieval
+- Stores user information, chat messages, and group details
+- Ensures data persistence and retrieval
 
 ## 3. Data Design
 
@@ -79,7 +79,7 @@ The MongoDB database includes collections for users, personal chats, and group c
 ## 4. Technology Stack
 
 ### Frontend:
--- Next.js
+- Next.js
 - Tailwind CSS
 
 ### Backend:
