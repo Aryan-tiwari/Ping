@@ -23,7 +23,7 @@ Ping is a cutting-edge chat application designed to bring people closer through 
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/Aryan-tiwari/Ping-2.0.git
+git clone https://github.com/Aryan-tiwari/Ping.git
 ```
 
 ### Install packages
